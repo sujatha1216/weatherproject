@@ -1,3 +1,3 @@
-web: gunicorn weatherapp.wsgi --log-file - 
+web: gunicorn weatherproject.wsgi --log-file - 
 #or works good with external database
-web: python manage.py migrate && gunicorn weatherapp.wsgi
+web: python manage.py migrate && gunicorn weatherproject.wsgi
