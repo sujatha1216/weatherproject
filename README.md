@@ -26,3 +26,6 @@ This is a Django-based web application that displays real-time weather informati
 
 ![Screenshot 2025-05-13 170628](https://github.com/user-attachments/assets/039f07a4-1c7a-48bb-9d52-9034cd16bfee)
 
+
+🌐 Deployed on [Render](https://weatherproject-8ypv.onrender.com/)
+
